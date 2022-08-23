@@ -412,7 +412,12 @@ body {
   margin-bottom: 12px;
 }
 
-..(fsdfsdf)
+#fs-frm ul {
+  list-style: none;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
 
 .Sbtn {
   background-color: white;
