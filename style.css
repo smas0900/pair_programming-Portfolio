@@ -412,17 +412,7 @@ body {
   margin-bottom: 12px;
 }
 
-#fs-frm ul {
-  list-style: none;
-  margin-left: 24px;
-  margin-right: 24px;
-}
-
-#fs-frm li {
-  display: flex;
-  flex-direction: column;
-  margin: 0.5em 0;
-}
+..
 
 .Sbtn {
   background-color: white;
